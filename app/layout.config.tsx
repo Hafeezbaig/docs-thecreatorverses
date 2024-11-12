@@ -9,10 +9,15 @@ export const baseOptions: HomeLayoutProps = {
   },
   links: [
     {
-      text: 'Documentation',
+      text: 'Docs',
       url: '/docs',
       active: 'nested-url',
     },
+    // {
+    //   text: 'Quran',
+    //   url: '/quran',
+    //   active: 'nested-url',
+    // },
   ],
 };
 
