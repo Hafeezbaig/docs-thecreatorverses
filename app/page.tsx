@@ -32,7 +32,7 @@ export default function HomePage() {
             Daily Quotes
           </Link>
           <Link
-            href="/docs"
+            href="/docs/i-am-feeling"
             className="bg-gray-900 text-white font-semibold py-2 px-4 rounded hover:bg-gray-700"
           >
             I Am Feeling..
