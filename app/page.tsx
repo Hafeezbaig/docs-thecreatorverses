@@ -17,32 +17,21 @@ export default function HomePage() {
             href="/docs"
             className="bg-gray-900 text-white font-semibold py-2 px-4 rounded hover:bg-gray-700"
           >
-            Home Page
+            Home
           </Link>
           <Link
-            href="/docs"
+            href="/docs/Series/The-Story-of-Islam"
             className="bg-gray-900 text-white font-semibold py-2 px-4 rounded hover:bg-gray-700"
           >
-            Read Quran
+            Series
           </Link>
           <Link
-            href="/docs"
+            href="https://chatgpt.com/g/g-6737ec71010c8191bf5d89deaef83482-thecreatorverses-islamic-knowledge"
             className="bg-gray-900 text-white font-semibold py-2 px-4 rounded hover:bg-gray-700"
           >
-            Daily Quotes
+            CustomGPT
           </Link>
-          <Link
-            href="/docs/i-am-feeling"
-            className="bg-gray-900 text-white font-semibold py-2 px-4 rounded hover:bg-gray-700"
-          >
-            I Am Feeling..
-          </Link>
-          <Link
-            href="/docs"
-            className="bg-gray-900 text-white font-semibold py-2 px-4 rounded hover:bg-gray-700"
-          >
-            Dua & Dhikhr
-          </Link>
+
         </div>
       </main>
 
